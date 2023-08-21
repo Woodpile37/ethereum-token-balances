@@ -9,7 +9,7 @@
   "author": "Thomas Lee @Chainstack",
   "license": "MIT",
   "dependencies": {
-    "@pooltogether/etherplex": "^0.2.3",
+    "@pooltogether/etherplex": "^1.1.5",
     "ethers": "^4.0.39",
     "isomorphic-fetch": "^3.0.0",
     "web3": "^4.0.1",
