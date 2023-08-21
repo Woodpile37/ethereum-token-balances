@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "@pooltogether/etherplex": "^0.2.3",
-    "ethers": "^4.0.39",
+    "ethers": "^6.0.8",
     "isomorphic-fetch": "^3.0.0",
     "web3": "^4.0.1",
     "web3-eth-abi": "^2.0.0-alpha.1"
